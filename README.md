@@ -6,6 +6,12 @@ In some cases where there are multiple small problems in the same category, they
 with a single file for each solution (e.g., calculating the next prime number and calculating 
 prime factors are both together in a folder named primes).
 
+## Problems Completed
+* Numbers
+  * **Fibonacci Sequence** (fibonacci/fibonacci.js)
+  * **Prime Factorization** (primes/primeFactors.js)
+  * **Next Prime** (primes/nextPrime.js)
+
 ## Contents of Original README below
 
 Mega Project List
