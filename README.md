@@ -11,6 +11,7 @@ prime factors are both together in a folder named primes).
   * **Fibonacci Sequence** (fibonacci/fibonacci.js)
   * **Prime Factorization** (primes/primeFactors.js)
   * **Next Prime** (primes/nextPrime.js)
+  * **Change Return Program** (changeReturn/makeChange.js)
 
 ## Contents of Original README below
 
