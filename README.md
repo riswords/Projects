@@ -7,7 +7,6 @@ with a single file for each solution (e.g., calculating the next prime number an
 prime factors are both together in a folder named primes).
 
 ## Contents of Original README below
-========
 
 Mega Project List
 ========
