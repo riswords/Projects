@@ -1,3 +1,14 @@
+## Structure of this solution set
+The common folder contains files that may be imported and used by multiple solutions. Other 
+top-level folders are named for the category of each problem set (numbers, classicAlgorithms, etc.),
+and within each of those, there's generally a folder for each problem that is named descriptively. 
+In some cases where there are multiple small problems in the same category, they share a folder 
+with a single file for each solution (e.g., calculating the next prime number and calculating 
+prime factors are both together in a folder named primes).
+
+## Contents of Original README below
+========
+
 Mega Project List
 ========
 
